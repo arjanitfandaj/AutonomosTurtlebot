@@ -8,3 +8,6 @@ The same thing you can do with Dijkstra, also you have other scripts you may use
 The same scripts you can use it on gazebo simulator.
 
 if you have any trouble please contact me: arjanitfandaj@gmail.com
+
+
+<img src="/AutonomousTurtlebot/Turtlebot_navigation/photos_turtlebot/paraqitjagrafike.png" alt="Alt text" title="A* & Dijkstra">
