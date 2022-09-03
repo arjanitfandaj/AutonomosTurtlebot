@@ -10,4 +10,4 @@ The same scripts you can use it on gazebo simulator.
 if you have any trouble please contact me: arjanitfandaj@gmail.com
 
 
-![My Image](photos_turtlebot/paraqitjagrafike.png)
+![My Image](Turtlebot_navigation/photos_turtlebot/paraqitjagrafike.png)
